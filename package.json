@@ -1,6 +1,6 @@
 {
   "name": "nobita-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nobita脚手架",
   "bin": {
     "nobita-cli": "./bin/nobita-cli.js"
